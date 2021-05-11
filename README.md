@@ -1,3 +1,8 @@
 # StudyBlog
 
-❓ Push code and resources here. Push thoughts on google doc. 
+❓  This repo is for *Code* and *Resources*. Thoughts and Reflection are on google doc. 
+⚡ Android/Java/Kotlin
+🌱 Algorithm
+🔭 Computer Network
+😸 Project
+
