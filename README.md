@@ -1,2 +1,3 @@
-# Study-Everyday
-### Push code and resources here. Push thoughts on google doc.
+# StudyBlog
+
+❓ Push code and resources here. Push thoughts on google doc. 
